@@ -1,0 +1,9 @@
+Steps to play 🥊 📄 ✂:
+
+1. Run python script in ide
+2. In terminal press Enter
+3. Decide you move
+4. Press R for 🥊, S for ✂, P for 🖇 in terminal  
+5. Cpu will choose randomly at the same time.
+6. See the description to view score 
+7. Repeat steps 1->6 or you can quit by pressing Ctrl+
